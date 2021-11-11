@@ -1,0 +1,213 @@
+Q:Is it real?
+Q:Is it materialistic?
+Q:Does it make people happy?
+Q:Does it wake you up?
+Q:Is it a liquid?
+A:coffee
+Q:Is it a car?
+Q:Is it a luxury car?
+Q:Does it have rings?
+A:Audi
+Q:Is it a sport version?
+A:AMG
+A:Mercedes
+Q:Do you go to the track with it?
+A:Race Car
+A:BMW
+Q:Is it alive?
+Q:Does it fly?
+Q:Is it a general category?
+A:Parrot
+A:Jack the Parrot
+Q:Is it a general category?
+Q:Does it go on walks?
+A:Dog
+Q:Is it an animal?
+A:Cat
+A:Kids
+A:Doberman
+Q:Does it have multiple uses?
+A:Phone
+Q:Is it a part of a car?
+A:Car Exhaust
+A:breakfast
+Q:Is it a food?
+Q:Do people fry it?
+Q:Is it a wing?
+A:Chicken Wing
+A:Chicken
+Q:Is it sweet?
+A:Skittles
+Q:Is it Italian?
+Q:Is it round?
+A:Pizza
+A:Pasta
+Q:Is it American?
+Q:Is it long?
+A:Hotdog
+A:Burgers
+A:Chipotle
+Q:Does it fly?
+Q:Does it have a remote?
+A:Drone
+A:Kite
+Q:Do you learn from it?
+A:Book
+Q:Do you sleep on it?
+A:Mattress
+Q:Is it big?
+Q:Is it a country?
+A:Japan
+Q:Is it a building?
+A:Gym
+Q:Is it electronic?
+A:TV
+Q:Do humans make it?
+Q:Does it take gas?
+Q:Do you use it for fishing?
+A:Boat
+A:Jet Ski
+A:Kayak
+A:Mountain
+Q:Is it a plant?
+A:flower
+Q:Is it a drink?
+Q:Is it iced?
+Q:Is it cheap?
+A:Arizona Tea
+A:Frappuccino
+Q:Does it contain milk?
+A:Milkshake
+A:Tea
+Q:Is it heavy?
+A:Wheels
+Q:Is it part of some hobby?
+Q:Does it catch something?
+A:Fishing Rod
+Q:Is it for hunting?
+Q:Does it involve an explosion?
+A:Rifle
+A:Bow
+A:Bike
+A:Snow
+Q:Does it completely destroy you?
+Q:Is it alive?
+Q:Does it have stripes?
+A:Tiger
+A:Wolf
+Q:Is it school related?
+A:college exams
+Q:Is it armored?
+A:Tank
+Q:Does it smear?
+A:Poop
+Q:Does it explode?
+A:Bomb
+A:Butt
+Q:Is it loud?
+Q:Does it blow air?
+Q:Does it smell?
+A:Fart
+A:Fan
+Q:Is it for a computer?
+Q:Do you touch it a lot?
+A:Keyboard
+A:Speaker
+Q:Is it liquid?
+A:Pee
+Q:Is it something outside?
+A:Truck
+A:morning alarm
+Q:Is it a part of something?
+Q:Is it for the engine?
+A:Motor Oil
+Q:Is it a part of a car?
+A:Headlights
+Q:Is it a part of a computer?
+Q:Does it show something?
+A:Monitor
+A:Hard Drive
+A:Hairy Butt
+Q:Does it have multiple uses?
+A:Laptop
+Q:Do you put stuff on it?
+A:Desk
+Q:Does it grow?
+A:Tree
+Q:Does it cross over something?
+A:Bridge
+Q:Does it emit light?
+A:Salt Lamp
+Q:Do you carry it on your back?
+A:Backpack
+Q:Is it electronic?
+Q:Is it a brand?
+A:Samsung
+A:Gopro
+Q:Do you chew it?
+A:Gum
+Q:Is it a place?
+A:House
+Q:Is it in your house?
+A:Chair
+A:Butt
+Q:Is it something humans can have?
+Q:Is it never ending?
+Q:Is it for your phone?
+Q:Is it a game?
+A:Minecraft
+A:Instagram
+Q:Is it for your computer?
+Q:Is it a game library?
+A:Steam
+A:Minecraft
+A:love that God has for you :) 
+Q:Is it something people can turn on?
+A:Song
+Q:Is it good for humans?
+Q:Is it an emotion?
+A:state of being happy
+A:Home
+A:Corona Virus
+Q:Is it discontinued?
+A:Vine
+A:understanding of the 4th dimension
+Q:Does it use the force?
+Q:Is it a Sith?
+A:Darth Vader
+Q:Is it a leader?
+Q:Is he a good guy?
+A:Luke Skywalker
+A:Darth Vader
+A:Jedi
+Q:Is it metal?
+Q:Do jedi use this as transportation?
+A:ship
+Q:Is it a weapon?
+A:Lightsaber
+A:droid
+Q:Is it Star Wars related?
+A:hobbit
+Q:Is it an animal?
+Q:Does it have a horn?
+A:Unicorn
+Q:Is it a bear?
+A:Winnie the Pooh
+Q:Is it a frog?
+Q:Does it have a cool voice?
+A:Kermit the Frog
+A:Pepe the Frog
+A:Peppa Pig
+Q:Is it scary?
+A:Pennywise
+Q:Is it a pirate?
+A:Captain Jack Sparrow
+Q:Is it a muppet?
+A:Elmo
+Q:Is it from a scary movie?
+Q:Does it float?
+A:Red Baloon
+A:Georgie from IT
+Q:Is it from an animated film?
+A:Ralph
+A:James Bond
