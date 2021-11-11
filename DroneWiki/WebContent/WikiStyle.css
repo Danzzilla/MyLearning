@@ -1,0 +1,40 @@
+body {
+	background-color:#fc9803;
+}
+
+h1 {
+	font: monaco;
+}
+
+h3 {
+	font-family: monaco, georgia;
+}
+
+p {
+	font-family: monaco, georgia;
+}
+
+body #FPV p {
+	font:copperplate;
+}
+
+a:link {
+	color:#ff1a1a;
+}
+
+a:visited {
+	color:#b30000;
+}
+
+a:hover {
+	color:#ff9999;
+}
+
+a:active {
+	color:#000000
+}
+
+/* not covered in class*/
+body #Contents {
+	border-style: solid;
+}
