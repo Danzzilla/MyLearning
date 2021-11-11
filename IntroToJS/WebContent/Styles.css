@@ -1,0 +1,11 @@
+html {
+	background-color: antiquewhite;
+	color: saddlebrown;
+}
+
+#result {
+	border: 2px solid black;
+	background-color: lightcyan;
+	color: black;
+	padding: 8px;
+}
