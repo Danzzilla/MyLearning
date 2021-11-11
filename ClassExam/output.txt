@@ -1,0 +1,6 @@
+[confidential] (ID#123) worked for a total of 39.5 hours, and for 4 days. Pay: 592.5
+[confidential] (ID#456) worked for a total of 24.0 hours, and for 6 days. Pay: 360.0
+[confidential] (ID#124) worked for a total of 48.0 hours, and for 6 days. Pay: 720.0
+[confidential] (ID#567) worked for a total of 6.0 hours, and for 3 days. Pay: 90.0
+[confidential] (ID#543) worked for a total of 23.5 hours, and for 4 days. Pay: 352.5
+[confidential] (ID#897) worked for a total of 22.5 hours, and for 5 days. Pay: 337.5
