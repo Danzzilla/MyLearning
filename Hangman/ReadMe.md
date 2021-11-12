@@ -8,7 +8,7 @@ that HangmanMain is to initiate.
 
 ### (JAVA FILES IN SRC)
 
-## What I'e learned
+## What I've learned
 * Data Structures
    * Set
       * TreeSet
