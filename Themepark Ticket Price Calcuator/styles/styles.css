@@ -1,0 +1,75 @@
+/*
+    Web page styles for the theme park tickets calculator page.
+    Author: Daniel Svirida 
+    File:Themepark ticket calculator
+    Date: 10/6/21
+*/
+
+html{
+    display: block;
+    background-color:chocolate;
+}
+
+body{
+    display:block;
+    width:fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    border:solid;
+    background-color: sandybrown;
+}
+
+#calculator{
+    /*border:solid;*/
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+h1{
+    display: block;
+    text-align: center;
+}
+
+input, select, label{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width:40%;
+    border-radius: 5px;
+}
+
+.sections{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 12.5%;
+    border-radius: 7px;
+}
+
+#output{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    width: 40%;
+    font-size:larger;
+}
+
+img{
+    display:block;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}

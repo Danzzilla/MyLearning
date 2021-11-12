@@ -1,0 +1,62 @@
+<!--
+    Daniel Svirida
+    10/15/2021
+    exercise.html
+    
+    HTML file for calorie tracker
+-->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Calorie tracker!</title>
+        <link rel="stylesheet" href="styles/styles.css">
+    </head>
+    <body>
+        <main>
+            <section>
+                <h1>Weight Conversion</h1>
+                <div class="control-group">
+                    <label>Weight in lbs</label>
+                    <input type="text" id="lbs">
+                </div>
+                <button id="lbs-to-kgs">Convert to kgs</button>
+            </section>
+            <section>
+                <h1>Workout METs</h1>
+                <div class="control-group">
+                    <label>Workout type</label>
+                    <select id="workouts">
+                        <option>Select an Option</option>
+                        <option value = "Walking">Walking</option>
+                        <option value = "Running">Running (5mph)</option>
+                        <option value = "Biking">Biking</option>
+                        <option value = "Swimming">Swimming</option>
+                        <option value = "Skiing">Skiing</option>
+                        <option value = "Snowboarding">Snowboarding</option>
+                        <option value = "Snowmobiling">Snowmobiling</option>
+                        <option value = "Soccer">Soccer</option>
+                    </select>
+                </div>
+                <button id="workout-to-met">Convert to MET</button>
+            </section>
+            <section>
+                <h1>Calories burned per minute</h1>
+                <div class="control-group">
+                    <label>MET</label>
+                    <input type="text" id="met">
+                </div>
+                <div class="control-group">
+                    <label>Weight in kg</label>
+                    <input type="text" id="kgs">
+                </div>
+                <button id="calc-calories">Calculate calories</button>
+            </section>
+            <img src="images/colories.png" alt="">
+        </main>
+        <aside>
+            <textarea id="console"></textarea>
+        </aside>
+        <script src="script/script.js"></script>
+    </body>
+</html>

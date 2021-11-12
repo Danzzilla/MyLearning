@@ -1,0 +1,75 @@
+/*
+    Daniel Svirida
+    10/15/2021
+    styles.css
+
+    CSS file for styling of calorie tracker
+*/
+html{
+    background-color:rgb(55, 72, 121);
+}
+
+body {
+    width: 960px;
+    margin: 15 auto;
+
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+
+    background-color:rgb(182, 200, 216);
+}
+
+section{
+    border: solid;
+    border-width: 1px;
+    border-color:slategray;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    margin: 15px;
+}
+
+input, select{
+    float: right;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+input{
+    width: 200px;
+    height: 20px;
+}
+
+select{
+    width: 210px;
+    height: 24px;
+}
+
+h1, button{
+    margin: 10px;
+}
+
+.control-group{
+    margin: 10px;
+    border: solid;
+    border-color: transparent;
+}
+
+input, select, textarea{
+    background-color: rgb(247, 250, 226);
+}
+
+button{
+    background-color:rgb(175, 183, 218);
+    border-radius: 5px;
+    height: 27px;
+}
+
+#console{
+    margin-top:14px;
+    width: 97%;
+    height: 95%;
+}
+
+img {
+    width: 100%;
+}

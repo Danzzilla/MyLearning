@@ -1,0 +1,88 @@
+<!--
+    This file contains the markup for the theme park
+    tickets calculator.
+    Author: Daniel Svirida
+    File: Themepark ticket calculator
+    Date: 10/6/21
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Theme Park Ticket Calculator</title>
+    <link rel= "stylesheet" href="styles/styles.css"></link>
+</head
+
+<!-- Full body with images-->
+<body>
+        <img src="images/tp_top.png">
+        <hr>
+
+    <!-- body of the calculator excluding images-->
+    <div id="calculator"> 
+        
+        <h1>Theme Park Ticket Calculator</h1>
+
+        <!--Form-->
+        <form>
+            <!--Adult Cost-->
+            <div class="sections">
+                <label for="adultCost">Adult Cost</label>
+                <input id="adultCost" type="text" placeholder="35.00">
+            </div>
+                
+            <!--Child Cost-->
+            <div class="sections">
+                <label for="childCost">Child Cost</label>
+                <input id="childCost" type="text" placeholder="15.00">
+            </div>
+            
+            <!--Adult Ticket Quantity-->
+            <div class="sections">
+                <label for="adultQuantity">Adult Tickets</label>
+                <select id="adultQuantity">
+                    <option value="0">0 Tickets</option>
+                    <option value="1">1 Ticket</option>
+                    <option value="2">2 Tickets</option>
+                    <option value="3">3 Tickets</option>
+                    <option value="4">4 Tickets</option>
+                    <option value="5">5 Tickets</option>
+                    <option value="6">6 Tickets</option>
+                    <option value="7">7 Tickets</option>
+                    <option value="8">8 Tickets</option>
+                    <option value="9">9 Tickets</option>
+                    <option value="10">10 Tickets</option>
+                </select>
+            </div>
+
+            <!--Child Ticket Quantity-->
+            <div class="secitons">
+                <label for="childQuantity">Child Tickets</label>
+                <select id="childQuantity">
+                    <option value="0">0 Tickets</option>
+                    <option value="1">1 Ticket</option>
+                    <option value="2">2 Tickets</option>
+                    <option value="3">3 Tickets</option>
+                    <option value="4">4 Tickets</option>
+                    <option value="5">5 Tickets</option>
+                    <option value="6">6 Tickets</option>
+                    <option value="7">7 Tickets</option>
+                    <option value="8">8 Tickets</option>
+                    <option value="9">9 Tickets</option>
+                    <option value="10">10 Tickets</option>
+                </select>
+            </div>
+
+                <!--Calculate button-->
+                <button id="calculate">Calculate</button>
+        </form>
+
+        <!--Where output from Javascript will be loaded-->
+        <div id="output">Total cost for tickets:</div>
+    </div>
+
+        <hr>
+        <img src="images/tp_bottom.png">
+        <script src="scripts/tickets.js"></script>
+</body>
+</html>
