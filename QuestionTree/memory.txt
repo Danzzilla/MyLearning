@@ -99,16 +99,6 @@ Q:Is it school related?
 A:college exams
 Q:Is it armored?
 A:Tank
-Q:Does it smear?
-A:Poop
-Q:Does it explode?
-A:Bomb
-A:Butt
-Q:Is it loud?
-Q:Does it blow air?
-Q:Does it smell?
-A:Fart
-A:Fan
 Q:Is it for a computer?
 Q:Do you touch it a lot?
 A:Keyboard
