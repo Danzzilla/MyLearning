@@ -12,3 +12,5 @@ The files range from small ones with 5 lines of code to larger ones with hundred
  - jGrasp
  - Eclipse
  - Visual Studio Code
+ - IntelliJ
+ - PHPStorm
